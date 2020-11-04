@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
 
-![](https://bit.ly/362NSX3)
-
 <h2 align="center">Some fancy statistics widgets:</h2>
 
 <img
@@ -19,6 +17,11 @@
   src="https://github-profile-trophy.vercel.app/?username=iamolegga&row=2&column=3"
   width="45.5%"
   align="center"
+/>
+<img
+  src="https://pixel-nu.vercel.app/api/image.gif"
+  width="1"
+  height="1"
 />
 </p>
   
