@@ -6,17 +6,22 @@
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=iamolegga&show_icons=true&locale=en"
-  width="40%"
+  width="54%"
 />
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamolegga&layout=compact"
-  width="33.5%"
+  width="45.3%"
 />
+<br />
+
+<p align="center">
 <img
   src="https://github-profile-trophy.vercel.app/?username=iamolegga&row=2&column=3"
-  width="23.5%"
+  width="45.5%"
+  align="center"
 />
-
+</p>
+  
 <h2 align="center">Some projects I've been contributed to:</h2>
 
 ### Golang
