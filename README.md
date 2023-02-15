@@ -92,6 +92,15 @@ Basic implementation of saga pattern for NestJS (do not confuse it with the [bui
 
 The most basic and unopinionated implementation of [GCP PubSub](https://cloud.google.com/pubsub/) transport for NestJS microservices.
 
+---
+
+[nest-nsq-transport](https://github.com/iamolegga/nest-nsq-transport)
+
+[![GitHub stars](https://img.shields.io/github/stars/iamolegga/nest-nsq-transport?style=flat-square)](https://github.com/iamolegga/nest-nsq-transport)
+[![npm](https://img.shields.io/npm/dm/nest-nsq-transport?style=flat-square)](https://www.npmjs.com/package/nest-nsq-transport)
+
+The most basic and unopinionated implementation of [NSQ](https://nsq.io/) transport for NestJS microservices.
+
 <h2 align="center">React Native</h2>
 
 [react-native-launch-arguments](https://github.com/iamolegga/react-native-launch-arguments)
