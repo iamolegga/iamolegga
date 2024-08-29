@@ -136,7 +136,7 @@ pgx adapter for https://github.com/philippgille/gokv
 
 ---
 
-[gokvpgx](https://github.com/iamolegga/plugin-simplecache)
+[plugin-simplecache](https://github.com/iamolegga/plugin-simplecache)
 
 [![GitHub stars](https://img.shields.io/github/stars/iamolegga/plugin-simplecache?style=flat-square)](https://github.com/iamolegga/plugin-simplecache)
 
