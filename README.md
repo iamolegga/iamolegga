@@ -128,6 +128,22 @@ Type-safe bus generator for go.
 
 ---
 
+[gokvpgx](https://github.com/iamolegga/gokvpgx)
+
+[![GitHub stars](https://img.shields.io/github/stars/iamolegga/gokvpgx?style=flat-square)](https://github.com/iamolegga/gokvpgx)
+
+pgx adapter for https://github.com/philippgille/gokv
+
+---
+
+[gokvpgx](https://github.com/iamolegga/plugin-simplecache)
+
+[![GitHub stars](https://img.shields.io/github/stars/iamolegga/plugin-simplecache?style=flat-square)](https://github.com/iamolegga/plugin-simplecache)
+
+Fork of traefik's simple-cache plugin with extra cache configuration
+
+---
+
 [ratelimiter](https://github.com/iamolegga/ratelimiter)
 
 [![GitHub stars](https://img.shields.io/github/stars/iamolegga/ratelimiter?style=flat-square)](https://github.com/iamolegga/ratelimiter)
