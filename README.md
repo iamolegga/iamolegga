@@ -136,6 +136,14 @@ pgx adapter for https://github.com/philippgille/gokv
 
 ---
 
+[gorilla-validator](https://github.com/iamolegga/gorilla-validator)
+
+[![GitHub stars](https://img.shields.io/github/stars/iamolegga/gorilla-validator?style=flat-square)](https://github.com/iamolegga/gorilla-validator)
+
+HTTP request validation middleware for Gorilla Mux
+
+---
+
 [plugin-simplecache](https://github.com/iamolegga/plugin-simplecache)
 
 [![GitHub stars](https://img.shields.io/github/stars/iamolegga/plugin-simplecache?style=flat-square)](https://github.com/iamolegga/plugin-simplecache)
