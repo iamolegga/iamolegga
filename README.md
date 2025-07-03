@@ -144,6 +144,14 @@ HTTP request validation middleware for Gorilla Mux
 
 ---
 
+[goenvsubst](https://github.com/iamolegga/goenvsubst)
+
+[![GitHub stars](https://img.shields.io/github/stars/iamolegga/goenvsubst?style=flat-square)](https://github.com/iamolegga/goenvsubst)
+
+It's like envsubst in linux but for Go data structures
+
+---
+
 [plugin-simplecache](https://github.com/iamolegga/plugin-simplecache)
 
 [![GitHub stars](https://img.shields.io/github/stars/iamolegga/plugin-simplecache?style=flat-square)](https://github.com/iamolegga/plugin-simplecache)
